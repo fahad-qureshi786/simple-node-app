@@ -55,8 +55,8 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 # Other
 .DS_Store
 .tmp
+config.bat
